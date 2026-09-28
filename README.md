@@ -1,6 +1,9 @@
 Sobre o projeto
+
 Crud feito para gerenciamento de vendedores e vendas.
+
 Ele foi criado como projeto prático para estudar:
+
 •	ASP.NET Core
 •	MVC
 •	Front-end com Bootstrap
