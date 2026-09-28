@@ -19,19 +19,30 @@ Ele foi criado como projeto prático para estudar:
 •	Boas práticas de desenvolvimento
 ________________________________________
 Funcionalidades
+
 ✅ Inserção, Atualização e deleção de vendedores e vendas
+
 ✅ Filtro de busca simples
+
 ✅ Filtro de busca agrupada 
+
 ✅ Estrutura simples e escalavel
+
 ✅ Ideal para aprendizado de ASP.NET
 ________________________________________
  Tecnologias usadas
+ 
 •	ASP.NET Core MVC
+
 •	MySQL
+
 •	Bootstrap
+
 •	Entity Framework
 ________________________________________
 Como executar o projeto
+
 1️⃣ Clonar o repositório
+
 git clone https://github.com/LucasCarrasco2077/SalesWebMvc.git
 
