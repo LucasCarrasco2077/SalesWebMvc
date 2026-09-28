@@ -5,11 +5,17 @@ Crud feito para gerenciamento de vendedores e vendas.
 Ele foi criado como projeto prático para estudar:
 
 •	ASP.NET Core
+
 •	MVC
+
 •	Front-end com Bootstrap
+
 •	LINQ
+
 •	Conexão com banco de dados via Entity framework
+
 •	Chamadas assincronas usando task (Async, Await)
+
 •	Boas práticas de desenvolvimento
 ________________________________________
 Funcionalidades
